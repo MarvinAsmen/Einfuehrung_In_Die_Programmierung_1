@@ -5,8 +5,16 @@ This repository contains all my solutions for the "185.A91 Einführung in die Pr
 
 
 ## How to use this?
-Click on the __master__ ▾ dropbox to get an overview of all available excersises. Select the exercise you want to investigate the source code.
+Click on the __main__ ▾ dropbox to get an overview of all available excersises. Select the exercise you want to investigate the source code.
 
 
 ## Exercise Status Overview
-✅ [Beispieltest Einstufungstest](https://github.com/MarvinAsmen/Einfuehrung_In_Die_Programmierung_1/tree/BeispieltestEinstufungstest)
+✅ ⠀[Beispieltest Einstufungstest](https://github.com/MarvinAsmen/Einfuehrung_In_Die_Programmierung_1/tree/BeispieltestEinstufungstest)
+
+
+## Questions?
+Contact me on </br>
+📸 ⠀[Instagram (@marvin_asmen)](https://www.instagram.com/marvin_asmen)</br>
+🎮 ⠀[Discord (MarvinAsmen#7381)](https://discord.com/)</br>
+📧 ⠀[E-mail](mailto:marvinasmen@gmail.com)</br>
+or create an [Issue](https://github.com/MarvinAsmen/Einfuehrung_In_Die_Programmierung_1/issues).
