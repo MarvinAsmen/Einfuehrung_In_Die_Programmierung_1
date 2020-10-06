@@ -1,6 +1,6 @@
 public class Uebung {
 
-    public int myMult(int x, int y){
+    public static int myMult(int x, int y){
         if(x > 0 && y >0){
             int number=0;
 
@@ -14,7 +14,7 @@ public class Uebung {
         }
     }
 
-    public char findMaxChar(String text){
+    public static char findMaxChar(String text){
         if(text.length() > 0){
             char biggestAscii = text.charAt(0);
             for (int i = 0; i < text.length(); i++) {
@@ -26,7 +26,7 @@ public class Uebung {
         }
     }
 
-    public String replaceNthChar(String text, int n, char replaceChar){
+    public static String replaceNthChar(String text, int n, char replaceChar){
         if(text.length() > 0 && n >0){
             String newString="";
             for (int i = 0; i < text.length(); i++) {
@@ -46,7 +46,7 @@ public class Uebung {
         }
     }
 
-    public void printPattern(int n, char character){
+    public static void printPattern(int n, char character){
         if(n>0){
             for (int i = 0; i < n; i++) {
                 String space = "";
