@@ -32,8 +32,8 @@ public class Aufgabe4 {
     }
 
     private static boolean containsValue(int[] workArray, int value) {
-        boolean contains = workArray[0] == value;
-        int[] copy = Arrays.copyOfRange(workArray, 1,workArray.length);
+        boolean contains = workArray[0] == value || workArray[workArray.length-1] == value ;
+        int[] copy = Arrays.copyOfRange(workArray, 1,workArray.length-2);
         return (copy.length>0 && !contains) ? containsValue(copy,value) : contains;
     }
 
