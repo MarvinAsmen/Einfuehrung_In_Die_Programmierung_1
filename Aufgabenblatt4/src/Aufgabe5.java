@@ -9,10 +9,12 @@ public class Aufgabe5 {
     private static String[] readFileData(String fileName, int lineStart, int lineEnd) {
         if(lineStart==0) lineStart=1;
         In fileReader = new In(fileName);
-        String[] allLines = fileReader.readAllLines();
         String[] specific = new String[(lineEnd-lineStart)+1];
-        for (int i = 0; i < specific.length; i++) {
-            specific[i] = allLines[lineStart-1+i];
+        if(fileReader.exists()){
+            String[] allLines = fileReader.readAllLines();
+            for (int i = 0; i < specific.length; i++) {
+                specific[i] = allLines[lineStart-1+i];
+            }
         }
         return specific;
     }
@@ -27,11 +29,9 @@ public class Aufgabe5 {
                 resultArray[result_index]=sum;
                 System.out.println("Year "+(1955+result_index)+": "+sum);
                 sum=0;
-                current_entry = 1;
                 result_index++;
-            }else {
-                current_entry++;
             }
+            current_entry++;
         }
     }
 
