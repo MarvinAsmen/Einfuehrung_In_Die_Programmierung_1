@@ -1,7 +1,7 @@
 # 📝  Beispieltest Einstufungstest
 This branch contains my solution for the task [Beispieltest](https://tuwel.tuwien.ac.at/mod/resource/view.php?id=878839).
 
-> :warning: **Important**: Please do not copy and paste my solutions, this is just a guide! Try to understand the code on you own, otherwise you will not learn anything. I am not responsible for any bad grades, be advised!
+> :warning: **Important**: Please do not copy and paste my solutions, this is just a guide! Try to understand the code on your own, otherwise you will not learn anything. I am not responsible for any bad grades, be advised!
 
 ## What's the task?
 * int myMult(int x, int y) multipliziert x mit y ohne den Operator '*' zu benutzen und gibt das Ergebnis zurück.
