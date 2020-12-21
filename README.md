@@ -6,6 +6,6 @@ This branch contains my solution for the task [Aufgabenblatt5](https://tuwel.tuw
 
 ## Current Exercise Status
 ✅ ⠀[Aufgabe 1](https://github.com/MarvinAsmen/Einfuehrung_In_Die_Programmierung_1/blob/Aufgabenblatt5/Aufgabenblatt5/src/Aufgabe1.java)</br>
-🚧 ⠀[Aufgabe 2](https://github.com/MarvinAsmen/Einfuehrung_In_Die_Programmierung_1/blob/Aufgabenblatt5/Aufgabenblatt5/src/Aufgabe2.java)</br>
+✅ ⠀[Aufgabe 2](https://github.com/MarvinAsmen/Einfuehrung_In_Die_Programmierung_1/blob/Aufgabenblatt5/Aufgabenblatt5/src/Aufgabe2.java)</br>
 🚧 ⠀[Aufgabe 3](https://github.com/MarvinAsmen/Einfuehrung_In_Die_Programmierung_1/blob/Aufgabenblatt5/Aufgabenblatt5/src/Aufgabe3.java)</br>
 🚧 ⠀[Aufgabe 4](https://github.com/MarvinAsmen/Einfuehrung_In_Die_Programmierung_1/blob/Aufgabenblatt5/Aufgabenblatt5/src/Aufgabe4.java)</br>
