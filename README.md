@@ -13,7 +13,7 @@ Click on the __main__ ▾ dropbox to get an overview of all available excersises
 ✅ ⠀[Aufgabenblatt 3](https://github.com/MarvinAsmen/Einfuehrung_In_Die_Programmierung_1/tree/Aufgabenblatt3)</br>
 ✅ ⠀[Aufgabenblatt 4](https://github.com/MarvinAsmen/Einfuehrung_In_Die_Programmierung_1/tree/Aufgabenblatt4)</br>
 ✅ ⠀[Aufgabenblatt 5](https://github.com/MarvinAsmen/Einfuehrung_In_Die_Programmierung_1/tree/Aufgabenblatt5)</br>
-❌ ⠀[Aufgabenblatt 6](https://github.com/MarvinAsmen/Einfuehrung_In_Die_Programmierung_1/tree/Aufgabenblatt6)</br>
+✅ ⠀[Aufgabenblatt 6](https://github.com/MarvinAsmen/Einfuehrung_In_Die_Programmierung_1/tree/Aufgabenblatt6)</br>
 
 
 ## Questions?
